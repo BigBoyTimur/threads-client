@@ -47,3 +47,6 @@ docker copmose up
 ```
 Сервер будет допступен по адресу http://localhost:80
 
+## Live demo
+http://51.250.47.63/
+
